@@ -1,3 +1,8 @@
-# Livro de Receitas :cake:
+# Neste repositório cntém todos os projetos desenvolvidos no curso Spread Fullstack Developer da Dio :computer:
 
-Olá! Bem vindo ao meu livro de receitas!
+[Documentação Markdown](https://www.markdownguide.org/basic-syntax/).
+
+Sejam bem vindos e fiquem a vontade para comunicar qualquer melhoria! :muscle: :wink: :+1:
+
+
+
