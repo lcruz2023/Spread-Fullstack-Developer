@@ -2,7 +2,7 @@
 
 [Documentação Markdown](https://www.markdownguide.org/basic-syntax/).
 
-Sejam bem vindos e sintam-se a vontade para comunicar qualquer melhoria, grato! :muscle: :wink: :+1:
+Sejam bem vindos e sintam-se a vontade para comunicar qualquer melhoria, grato! :muscle::wink::+1:
 
 
 
